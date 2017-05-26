@@ -6,9 +6,23 @@
 
 ### `r emo::ji("lock")` [notary - Signing & Verification of R Packages](https://github.com/ropenscilabs/notary)
 
-### `r emo::ji("policeman")` [Best Practices for R Packages](https://github.com/ropenscilabs/r-security-practices)
+### `r emo::ji("policeman")` [Best Security Practices for R Packages](https://github.com/ropenscilabs/r-security-practices)
 
 ### `r emo::ji("tree")` [emldown - Create a Helpful Website from EML Metadata](https://github.com/ropenscilabs/emldown)
+
+### `r emo::ji("ear")` [webrockets - A Websocket Listener for R](https://github.com/ropenscilabs/webrockets)
+
+### `r emo::ji("mountain")` [miner - An R Interface for the Minecraft API](https://github.com/ROpenSciLabs/miner)
+
+### `r emo::ji("pencil")` [gramr - Write Good and do Other Stuff Good](https://github.com/ropenscilabs/gramr)
+
+### `r emo::ji("recovery")` [packagemetrics - A Package for Helping You Choose Which Package to Use](https://github.com/ropenscilabs/packagemetrics)
+
+### `r emo::ji("raised_hands")` [available - Pick a Good Name for Your R Package](https://github.com/ropenscilabs/available)
+
+### `r emo::ji("city_sunrise")` [cityquant - Toward a Digital Dashboard for Sustainable Cities](https://github.com/ropenscilabs/cityquant)
+
+### `r emo::ji("chicken")` [codefinch - An RStudio Addin for Tweeting Your Code](https://github.com/ropenscilabs/codefinch)
 
 ---
 
