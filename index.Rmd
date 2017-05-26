@@ -1,0 +1,18 @@
+# R OpenSci Unconference 2017 Projects
+
+### `r emo::ji("shower")` [skimr - Pipeable Summary Functions](https://github.com/ropenscilabs/skimr)
+
+### `r emo::ji("package")` [The State Of Data On CRAN: Discovering Good Data Packages](https://github.com/ropenscilabs/data-packages)
+
+### `r emo::ji("lock")` [notary - Signing & Verification of R Packages](https://github.com/ropenscilabs/notary)
+
+### `r emo::ji("policeman")` [Best Practices for R Packages](https://github.com/ropenscilabs/r-security-practices)
+
+### `r emo::ji("tree")` [emldown - Create a Helpful Website from EML Metadata](https://github.com/ropenscilabs/emldown)
+
+---
+
+If there are any projects that you know are missing please
+[fork](https://github.com/ropenscilabs/runconf17-projects) 
+this document on GitHub, make changes, and then send a pull
+request.
