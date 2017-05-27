@@ -24,6 +24,10 @@
 
 ### `r emo::ji("chicken")` [codefinch - An RStudio Addin for Tweeting Your Code](https://github.com/ropenscilabs/codefinch)
 
+### `r emo::ji("see_no_evil")` [arresteddev - For when your development is going awry!](https://github.com/ropenscilabs/arresteddev)
+
+### `r emo::ji("horse")` [ponyexpress - Automate speedy emails from R - copy and paste neigh more.](https://github.com/ropenscilabs/ponyexpress)
+
 ---
 
 If there are any projects that you know are missing please
