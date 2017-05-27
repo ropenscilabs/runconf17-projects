@@ -1,14 +1,14 @@
 # R OpenSci Unconference 2017 Projects
 
-### `r emo::ji("scissors")` [mwparser - Wikimarkup parsing in R](https://github.com/ropenscilabs/mwparser)
+### `r emo::ji("scissors")` [mwparser - Wikimarkup Parsing in R](https://github.com/ropenscilabs/mwparser)
+
+### `r emo::ji("eyes")` [rcheatsheet - Create Cheatsheets for R Packages](https://github.com/ropenscilabs/rcheatsheet)
 
 ### `r emo::ji("checkered_flag")` [checkers - A Framework for Reviewing Analysis Projects](https://github.com/ropenscilabs/checkers)
 
 ### `r emo::ji("100")` [testrmd - Test R Markdown Chunks](https://github.com/ropenscilabs/testrmd)
 
 ### `r emo::ji("tidy")` [tidyerjson - A Survey of JSON Affiliated R Packages](https://github.com/ropenscilabs/tidyerjson)
-
-### `r emo::ji("eyes")` [rcheatsheet - Create Cheatsheets for R Packages](https://github.com/ropenscilabs/rcheatsheet)
 
 ### `r emo::ji("mag")` [gargle - Authentication for Google APIs](https://github.com/r-pkgs/gargle)
 
@@ -26,7 +26,7 @@
 
 ### `r emo::ji("mountain")` [miner - An R Interface for the Minecraft API](https://github.com/ROpenSciLabs/miner)
 
-### `r emo::ji("pencil")` [gramr - Write Good and do Other Stuff Good](https://github.com/ropenscilabs/gramr)
+### `r emo::ji("pencil")` [gramr - Write Good and Do Other Stuff Good](https://github.com/ropenscilabs/gramr)
 
 ### `r emo::ji("recovery")` [packagemetrics - A Package for Helping You Choose Which Package to Use](https://github.com/ropenscilabs/packagemetrics)
 
@@ -36,11 +36,11 @@
 
 ### `r emo::ji("chicken")` [codefinch - An RStudio Addin for Tweeting Your Code](https://github.com/ropenscilabs/codefinch)
 
-### `r emo::ji("see_no_evil")` [arresteddev - For when your development is going awry!](https://github.com/ropenscilabs/arresteddev)
+### `r emo::ji("see_no_evil")` [arresteddev - For When Your Development is Going Awry!](https://github.com/ropenscilabs/arresteddev)
 
-### `r emo::ji("horse")` [ponyexpress - Automate speedy emails from R - copy and paste neigh more.](https://github.com/ropenscilabs/ponyexpress)
+### `r emo::ji("horse")` [ponyexpress - Automate Speedy Emails from R - Copy and Paste Neigh More.](https://github.com/ropenscilabs/ponyexpress)
 
-### `r emo::ji("cat2")` [pegax - PEG for taxonomic names](https://github.com/ropenscilabs/pegax)
+### `r emo::ji("cat2")` [pegax - PEG for Taxonomic Names](https://github.com/ropenscilabs/pegax)
 
 ---
 
