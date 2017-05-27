@@ -1,5 +1,17 @@
 # R OpenSci Unconference 2017 Projects
 
+### `r emo::ji("scissors")` [mwparser - Wikimarkup parsing in R](https://github.com/ropenscilabs/mwparser)
+
+### `r emo::ji("checkered_flag")` [checkers - A Framework for Reviewing Analysis Projects](https://github.com/ropenscilabs/checkers)
+
+### `r emo::ji("100")` [testrmd - Test R Markdown Chunks](https://github.com/ropenscilabs/testrmd)
+
+### `r emo::ji("tidy")` [tidyerjson - A Survey of JSON Affiliated R Packages](https://github.com/ropenscilabs/tidyerjson)
+
+### `r emo::ji("eyes")` [rcheatsheet - Create Cheatsheets for R Packages](https://github.com/ropenscilabs/rcheatsheet)
+
+### `r emo::ji("mag")` [gargle - Authentication for Google APIs](https://github.com/r-pkgs/gargle)
+
 ### `r emo::ji("shower")` [skimr - Pipeable Summary Functions](https://github.com/ropenscilabs/skimr)
 
 ### `r emo::ji("package")` [The State Of Data On CRAN: Discovering Good Data Packages](https://github.com/ropenscilabs/data-packages)
