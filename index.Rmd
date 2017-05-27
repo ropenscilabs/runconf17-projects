@@ -28,6 +28,8 @@
 
 ### `r emo::ji("horse")` [ponyexpress - Automate speedy emails from R - copy and paste neigh more.](https://github.com/ropenscilabs/ponyexpress)
 
+### `r emo::ji("ok_hand")` [testrmd - Testing for RMarkdown chunks.](https://github.com/ropenscilabs/testrmd)
+
 ---
 
 If there are any projects that you know are missing please
