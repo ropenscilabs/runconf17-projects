@@ -1,5 +1,7 @@
 # R OpenSci Unconference 2017 Projects
 
+### `r emo::ji("package")` [mwparser - Wikimarkup parsing in R](https://github.com/ropenscilabs/mwparser)
+
 ### `r emo::ji("shower")` [skimr - Pipeable Summary Functions](https://github.com/ropenscilabs/skimr)
 
 ### `r emo::ji("package")` [The State Of Data On CRAN: Discovering Good Data Packages](https://github.com/ropenscilabs/data-packages)
