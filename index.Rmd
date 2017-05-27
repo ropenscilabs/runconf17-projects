@@ -40,6 +40,8 @@
 
 ### `r emo::ji("horse")` [ponyexpress - Automate speedy emails from R - copy and paste neigh more.](https://github.com/ropenscilabs/ponyexpress)
 
+### `r emo::ji("cat2")` [pegax - PEG for taxonomic names](https://github.com/ropenscilabs/pegax)
+
 ---
 
 If there are any projects that you know are missing please
